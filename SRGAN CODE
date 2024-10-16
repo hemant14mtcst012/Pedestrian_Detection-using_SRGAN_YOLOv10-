@@ -1,0 +1,5 @@
+#SRGAN CODE
+cd /content/drive/MyDrive/ESRGAN-master
+!pip install torch torchvision torchaudio
+!pip install opencv-python glob2
+!python test.py
